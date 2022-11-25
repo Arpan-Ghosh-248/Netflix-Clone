@@ -1,6 +1,6 @@
 # Netflixclonedjangoreact
 
-A Netflix clone I created for the sake of practicing React ,Redux and Django REST API. It features design patterns recommended by the documentation. Some of the tools used include:
+A Netflix clone that I created for the sake of practicing React ,Redux and Django REST API. It features design patterns recommended by the documentation. Some of the tools used include:
 
    1. Django
    2. Django REST API
